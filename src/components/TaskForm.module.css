@@ -1,0 +1,14 @@
+form {
+  width: 70%;
+  padding: 20px 0;
+}
+
+input {
+  width: 100%;
+  padding: 5px 20px;
+  font-family: "GrapeNuts", Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+  font-size: 30px;
+  line-height: 1;
+  font-weight: 700;
+}
